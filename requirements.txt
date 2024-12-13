@@ -1,7 +1,7 @@
 streamlit 
 langchain 
 langchain_ollama
-selenium
+selenium==4.10.0
 beautifulsoup4
 lxml 
 html5lib
